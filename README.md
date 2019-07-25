@@ -1,6 +1,6 @@
 ## lookahead optimizer for pytorch
 
-Keras implement of <a href="https://arxiv.org/abs/1907.08610" target="_blank">Lookahead Optimizer: k steps forward, 1 step back</a>
+PyTorch implement of <a href="https://arxiv.org/abs/1907.08610" target="_blank">Lookahead Optimizer: k steps forward, 1 step back</a>
 
 Usage:
 ```
