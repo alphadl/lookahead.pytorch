@@ -13,7 +13,7 @@ lookahead.step()
 
 ## lookahead优化器的PyTorch实现
 
-论文<a href="https://arxiv.org/abs/1907.08610" target="_blank">《Lookahead Optimizer: k steps forward, 1 step back》</a>的Keras实现。
+论文<a href="https://arxiv.org/abs/1907.08610" target="_blank">《Lookahead Optimizer: k steps forward, 1 step back》</a>的PyTorch实现。
 
 用法：
 ```
