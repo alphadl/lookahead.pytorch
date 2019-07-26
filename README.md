@@ -24,4 +24,7 @@ loss_function(model(input), target).backward() # 自定义的损失函数
 lookahead.step()
 ```
 
-中文介绍：https://mp.weixin.qq.com/s/3J-28xd0pyToSy8zzKs1RA
+中文介绍：https://mp.weixin.qq.com/s/3J-28xd0pyToSy8zzKs1RA  
+  
+  
+![avatar](fig/algorithm.png)
