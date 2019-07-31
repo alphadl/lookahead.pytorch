@@ -1,4 +1,7 @@
 ## lookahead optimizer for pytorch
+![Star](https://img.shields.io/github/stars/alphadl/lookahead.pytorch)
+![Fork](https://img.shields.io/github/forks/alphadl/lookahead.pytorch)
+![Twitter](https://img.shields.io/twitter/url/https/github.com%2Falphadl%2Flookahead.pytorch)
 
 PyTorch implement of <a href="https://arxiv.org/abs/1907.08610" target="_blank">Lookahead Optimizer: k steps forward, 1 step back</a>
 
