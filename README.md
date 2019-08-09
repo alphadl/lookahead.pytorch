@@ -1,4 +1,5 @@
 ## lookahead optimizer for pytorch
+![License](https://img.shields.io/github/license/alphadl/lookahead.pytorch)
 ![Star](https://img.shields.io/github/stars/alphadl/lookahead.pytorch)
 ![Fork](https://img.shields.io/github/forks/alphadl/lookahead.pytorch)
 ![Twitter](https://img.shields.io/twitter/url/https/github.com%2Falphadl%2Flookahead.pytorch)
